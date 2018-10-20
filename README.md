@@ -3,18 +3,18 @@ I like to explore datasets. This is a repository of my machine learning models, 
 
 Projects:
 
-DataCamp Assignments
+1. DataCamp Assignments
 
-OGS Dev Days 2018 competition : Explore Cancer Dataset
+2. OGS Dev Days 2018 competition : Explore Cancer Dataset
 
-Udacity : Boston Housing
+3. Udacity : Boston Housing
 
-Udacity : Customer Segments
+4. Udacity : Customer Segments
 
-Udacity : Finding Donors
+5. Udacity : Finding Donors
 
-Kaggle : Mushroom Classifications
+6. Kaggle : Mushroom Classifications
 
-Kaggle Black Friday ( Coming)
+7. Kaggle Black Friday ( Coming)
 
-Airport Data Analysis and Visualization (Coming)
+8. Airport Data Analysis and Visualization (Coming) : https://qmisr.github.io/mis492/fall2017.html
