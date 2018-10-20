@@ -1,7 +1,7 @@
 # ML
 I like to explore datasets. This is a repository of my machine learning models, projects and assignments.
 
-Projects :
+Projects:
 
 DataCamp Assignments
 
@@ -12,4 +12,6 @@ Udacity : Boston Housing
 Udacity : Customer Segments
 
 Udacity : Finding Donors
+
+Kaggle : Mushroom Classifications
 
