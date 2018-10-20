@@ -15,3 +15,6 @@ Udacity : Finding Donors
 
 Kaggle : Mushroom Classifications
 
+Kaggle Black Friday ( Coming)
+
+Airport Data Analysis and Visualization (Coming)
