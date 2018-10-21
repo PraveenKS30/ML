@@ -15,6 +15,6 @@ Projects:
 
 6. Kaggle : Mushroom Classifications
 
-7. Kaggle Black Friday ( Coming)
+7. Kaggle Black Friday
 
 8. Airport Data Analysis and Visualization (Coming) : https://qmisr.github.io/mis492/fall2017.html
