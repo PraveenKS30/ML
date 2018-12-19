@@ -19,4 +19,6 @@ Projects:
 
 8. NLP Fake News Classifier
 
-8. Airport Data Analysis and Visualization (Coming) : https://qmisr.github.io/mis492/fall2017.html
+9. Keras Deep Neural Network: Fashion MNIST Image classification
+
+. Airport Data Analysis and Visualization (Coming) : https://qmisr.github.io/mis492/fall2017.html
